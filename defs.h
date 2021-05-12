@@ -1,4 +1,4 @@
 #pragma once
 
-#define T  char
+#define T  int
 
